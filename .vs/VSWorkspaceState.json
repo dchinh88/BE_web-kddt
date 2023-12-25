@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShopDienThoai.Application",
+    "\\ShopDienThoai.Application\\Services",
+    "\\ShopDienThoai.Application\\Services\\Authenticate"
+  ],
+  "SelectedNode": "\\ShopDienThoai.Application\\Services\\Authenticate\\AccountService.cs",
+  "PreviewInSolutionExplorer": false
+}
